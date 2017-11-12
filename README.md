@@ -9,9 +9,13 @@ Control the movement of the '*' on the text view with 4 buttons.
 
 
 ##Progress
--The Star can move left and right
--The star can move up and down
+-The Star can move left and right  
+-The star can move up and down  
 -Horizontal movement have boundary
+
+##Todo
+-Using TextView for this application is not good.Maybe using another module 
+to implement is better.
 
 ##Notes
 -Android Studio 3 is very powerful. It gives many hint to solve the error and 
