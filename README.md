@@ -1,5 +1,5 @@
 # ControlStar
-![image](https://github.com/tommokmok/tommokmok.github.io/blob/master/mainAct.png)
+![image](https://github.com/tommokmok/tommokmok.github.io/blob/master/mainAct.png)  
 ##Brief
 A very simple application playing with the Android TextView.
 Application will use Android Studio 3 and Kotlin for development.
